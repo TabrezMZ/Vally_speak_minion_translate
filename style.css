@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav {
+    background-color: aquamarine;
+    font-size: 18px;
+    text-align: center;
+    width: auto;
+    height: 40px;
+    padding: 25px;
+    color: rgb(149, 4, 4);
+}
+
+div {
+    display: flex;flex-direction: column;
+    align-items: center;
+    background-color: blueviolet;
+    height: 50vh;
+    width: auto;
+}
+
+input {
+    margin: 20px;
+    width: 70%;
+    height: 10vh;
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: bisque;
+}
+
+button{
+    width: 50%;
+    height: 5vh;
+    background-color: brown;
+    border-radius: 6px;
+    color: rgb(171, 228, 228);
+    margin: 10px;
+}
+
+strong {
+    margin: 5px;
+    color: rgb(2, 2, 92);
+}
+
+textarea{
+    width: 70%;
+    height: 15vh;
+    text-align: center;
+    background-color: bisque;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+
+footer{
+    background-color: aquamarine;
+    width: auto;
+    height: 30vh;
+    padding: 20px;
+    color: rgb(20, 6, 3);
+    font-size: 22px;
+}
+
+p{
+    text-align: center;
+    font-size: 28px;
+}
